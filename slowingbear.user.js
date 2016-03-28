@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        shutuponircmore
+// @name        slowingbear
 // @namespace   yuvi.in
-// @description Helps you keep shut on IRC some more
+// @description Helps shape personal behavior on IRC
 // @include     http://www.glowing-bear.org/#
 // @version     1
 // @grant       none

@@ -1,4 +1,4 @@
-# slowdown-glowingbear-greasemonkey
+# slowingbear
 Greasemonkey script to help slow down and shape personal behavior on the Glowing Bear IRC Client
 
 ## What does it do? ##
