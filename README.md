@@ -17,7 +17,7 @@ Multitude of reasons:
    unideal. It also seems to make it harder for me to write longer form text,
    which sucks!
 2. IRC can get pretty heated sometimes! While I'm also working on other issues
-   of emotional and mental control, aving some computer help is also nice!
+   of emotional and mental control, having some computer help is also nice!
    This forces me to stop and think before I can begin typing, helping stop
    words from flitting from my subconscious unfiltered onto IRC.
 3. I talk too much on IRC! [These stats](http://korma.wmflabs.org/browser/irc-contributors.html)
